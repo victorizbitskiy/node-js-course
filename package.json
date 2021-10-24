@@ -1,0 +1,30 @@
+{
+  "name": "node-js-course",
+  "version": "1.0.0",
+  "description": "Node JS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorizbitskiy/node-js-course.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "course"
+  ],
+  "author": "Victor Izbitskiy victor.izbitskiy@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorizbitskiy/node-js-course/issues"
+  },
+  "homepage": "https://github.com/victorizbitskiy/node-js-course#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
